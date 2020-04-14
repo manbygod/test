@@ -1,16 +1,8 @@
 # test
 
 <<<<<<< HEAD
-# 개요5
-## 개요6
-<http://chenluois.com>,
-[Mou](https://twitter.com/mou)
-[a relative link](other_file.md)
-[^1]: And that's the footnote.
-![logo](http://finfra.com/f/f.png)
-=======
-# 개요3 
-## 개요4 
+# 개요7
+## 개요8
 <http://chenluois.com>, 
 [Mou](https://twitter.com/mou) 
 [a relative link](other_file.md) 
